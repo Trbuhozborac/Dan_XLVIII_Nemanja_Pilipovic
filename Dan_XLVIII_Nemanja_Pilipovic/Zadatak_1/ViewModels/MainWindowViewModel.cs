@@ -54,6 +54,9 @@ namespace Zadatak_1.ViewModels
 
         #region Functions
 
+        /// <summary>
+        /// Shows User View
+        /// </summary>
         private void ShowUserViewExecute()
         {
             UserView view = new UserView();
@@ -65,6 +68,9 @@ namespace Zadatak_1.ViewModels
             return true;
         }
 
+        /// <summary>
+        /// Shows Employee View
+        /// </summary>
         private void ShowEmployeeViewExecute()
         {
             EmployeeView view = new EmployeeView();

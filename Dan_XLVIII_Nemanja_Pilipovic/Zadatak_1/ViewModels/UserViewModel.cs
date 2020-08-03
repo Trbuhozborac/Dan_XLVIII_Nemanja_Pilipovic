@@ -219,6 +219,5 @@ namespace Zadatak_1.ViewModels
         }
 
         #endregion
-
     }
 }
